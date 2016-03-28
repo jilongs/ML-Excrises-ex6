@@ -1,0 +1,8 @@
+### Example user template template
+### Example user template
+
+# IntelliJ project files
+.idea
+*.iml
+/ex6/token.mat
+# Created by .ignore support plugin (hsz.mobi)
